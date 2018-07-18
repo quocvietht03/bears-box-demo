@@ -140,7 +140,7 @@
 	line-height: 24px;
 	text-transform: uppercase;
 	color: #ffffff;
-	background: #000000;
+	background: #82b440;
 	padding: 15px 30px;
 	-webkit-box-shadow: 5px 0px 35px rgba(0, 0, 0, 0.14);
 	-moz-box-shadow: 5px 0px 35px rgba(0, 0, 0, 0.14);
@@ -150,9 +150,18 @@
 	-o-transition: all 0.4s ease 0s;
 	-ms-transition: all 0.4s ease 0s;
 	transition: all 0.4s ease 0s;
+}#panel-style-selector .panel-wrapper .panel-selector-body .panel-selector-section.panel-first-content .panel-selector-row .panel-purchase-btn:before{
+	content: "";
+	display: inline-block;
+	vertical-align: middle;
+	width: 20px;
+	height: 20px;
+	background-image: url("shopping-cart.png");
+	background-size: cover;
+    margin-right: 10px;
 }
 #panel-style-selector .panel-wrapper .panel-selector-body .panel-selector-section.panel-first-content .panel-purchase-btn:hover{
-	opacity: 0.85;
+	background: #7aa93c;
 }
 #panel-style-selector .panel-wrapper .panel-selector-body .panel-selector-section .panel-selector-row ul{
 	padding: 0 5%;
