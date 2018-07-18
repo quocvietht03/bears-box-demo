@@ -27,67 +27,67 @@ function bears_box_demo_render() {
 	$homepages = array(
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-company/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Business-Finance-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Business-Finance-Demo.jpg', __FILE__),
 			'title' => esc_html__('Business & Finance', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-lawfirm/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Law-Firm-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Law-Firm-Demo.jpg', __FILE__),
 			'title' => esc_html__('Law Firm', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-construction/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Construction-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Construction-Demo.jpg', __FILE__),
 			'title' => esc_html__('Construction', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-dentist/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Dentist-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Dentist-Demo.jpg', __FILE__),
 			'title' => esc_html__('Dentist', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-legal/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Legal-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Legal-Demo.jpg', __FILE__),
 			'title' => esc_html__('Legal', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-marketing/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Pr-Marketing-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Pr-Marketing-Demo.jpg', __FILE__),
 			'title' => esc_html__('Pr & Marketing', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-consultancy/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Consultancy-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Consultancy-Demo.jpg', __FILE__),
 			'title' => esc_html__('Consultancy', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-creative/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Creative-agency-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Creative-agency-Demo.jpg', __FILE__),
 			'title' => esc_html__('Creative Agency', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-digital/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Digital-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Digital-Demo.jpg', __FILE__),
 			'title' => esc_html__('Digital', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-advisor/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Advisor-Agency-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Advisor-Agency-Demo.jpg', __FILE__),
 			'title' => esc_html__('Advisor Agency', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-insurance/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Insurance-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Insurance-Demo.jpg', __FILE__),
 			'title' => esc_html__('Insurance', 'bears-box-demo')
 		),
 		array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-serviceit/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/IT-Services-Demo.jpg',
+			'img' => plugins_url('assets/homepages/IT-Services-Demo.jpg', __FILE__),
 			'title' => esc_html__('IT Services', 'bears-box-demo')
 		),
 		/* array(
 			'link' => 'http://theme.bearsthemes.com/wordpress/bears-arabic/',
-			'img' => 'http://bearsthemes.com/landingpages/wp-content/uploads/2018/06/Arabic-Demo.jpg',
+			'img' => plugins_url('assets/homepages/Arabic-Demo.jpg', __FILE__),
 			'title' => esc_html__('Arabic', 'bears-box-demo')
 		), */
 	);
