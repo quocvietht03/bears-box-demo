@@ -164,6 +164,10 @@
 	background-size: cover;
     margin-right: 10px;
 }
+.rtl #panel-style-selector .panel-wrapper .panel-selector-body .panel-selector-section.panel-first-content .panel-selector-row .panel-purchase-btn:before{
+	margin-left: 10px;
+	margin-right: 0;
+}
 #panel-style-selector .panel-wrapper .panel-selector-body .panel-selector-section.panel-first-content .panel-purchase-btn:hover{
 	background: #7aa93c;
 }
