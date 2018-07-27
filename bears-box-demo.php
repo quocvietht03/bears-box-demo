@@ -85,11 +85,11 @@ function bears_box_demo_render() {
 			'img' => plugins_url('assets/homepages/IT-Services-Demo.jpg', __FILE__),
 			'title' => esc_html__('IT Services', 'bears-box-demo')
 		),
-		/* array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-arabic/',
+		array(
+			'link' => 'http://theme.bearsthemes.com/wordpress/bears-arabic/ar/',
 			'img' => plugins_url('assets/homepages/Arabic-Demo.jpg', __FILE__),
 			'title' => esc_html__('Arabic', 'bears-box-demo')
-		), */
+		),
 	);
 	?>
 	<div id="panel-style-selector">
