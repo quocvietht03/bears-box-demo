@@ -26,67 +26,67 @@ function bears_box_demo_render() {
 	$item_link = 'http://themeforest.net/cart/add_items?ref=bearsthemes&item_ids=22165017';
 	$homepages = array(
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-company/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-company/',
 			'img' => plugins_url('assets/homepages/Business-Finance-Demo.jpg', __FILE__),
 			'title' => esc_html__('Business & Finance', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-lawfirm/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-lawfirm/',
 			'img' => plugins_url('assets/homepages/Law-Firm-Demo.jpg', __FILE__),
 			'title' => esc_html__('Law Firm', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-construction/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-construction/',
 			'img' => plugins_url('assets/homepages/Construction-Demo.jpg', __FILE__),
 			'title' => esc_html__('Construction', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-dentist/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-dentist/',
 			'img' => plugins_url('assets/homepages/Dentist-Demo.jpg', __FILE__),
 			'title' => esc_html__('Dentist', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-legal/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-legal/',
 			'img' => plugins_url('assets/homepages/Legal-Demo.jpg', __FILE__),
 			'title' => esc_html__('Legal', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-marketing/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-marketing/',
 			'img' => plugins_url('assets/homepages/Pr-Marketing-Demo.jpg', __FILE__),
 			'title' => esc_html__('Pr & Marketing', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-consultancy/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-consultancy/',
 			'img' => plugins_url('assets/homepages/Consultancy-Demo.jpg', __FILE__),
 			'title' => esc_html__('Consultancy', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-creative/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-creative/',
 			'img' => plugins_url('assets/homepages/Creative-agency-Demo.jpg', __FILE__),
 			'title' => esc_html__('Creative Agency', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-digital/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-digital/',
 			'img' => plugins_url('assets/homepages/Digital-Demo.jpg', __FILE__),
 			'title' => esc_html__('Digital', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-advisor/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-advisor/',
 			'img' => plugins_url('assets/homepages/Advisor-Agency-Demo.jpg', __FILE__),
 			'title' => esc_html__('Advisor Agency', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-insurance/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-insurance/',
 			'img' => plugins_url('assets/homepages/Insurance-Demo.jpg', __FILE__),
 			'title' => esc_html__('Insurance', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-serviceit/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-serviceit/',
 			'img' => plugins_url('assets/homepages/IT-Services-Demo.jpg', __FILE__),
 			'title' => esc_html__('IT Services', 'bears-box-demo')
 		),
 		array(
-			'link' => 'http://theme.bearsthemes.com/wordpress/bears-arabic/ar/',
+			'link' => 'https://bearsthemespremium.com/theme/bears-arabic/ar/',
 			'img' => plugins_url('assets/homepages/Arabic-Demo.jpg', __FILE__),
 			'title' => esc_html__('Arabic', 'bears-box-demo')
 		),
